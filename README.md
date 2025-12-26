@@ -7,3 +7,6 @@ Examen.Partea Practică la Planificarea Aplicațiilor Desktop
 - <img width="595" height="683" alt="Captură de ecran 2025-12-26 093755" src="https://github.com/user-attachments/assets/7bc7ff87-d10e-4dfe-96f3-61338d36d40a" />
 - <img width="799" height="686" alt="Captură de ecran 2025-12-26 093736" src="https://github.com/user-attachments/assets/13ad9639-3e71-4e29-8c2e-45729bc2d643" />
 - <img width="659" height="705" alt="Captură de ecran 2025-12-26 093812" src="https://github.com/user-attachments/assets/1b3a7376-a4fd-4b9d-a8ba-b1bb54605d03" />
+
+# DiagrameUML
+- <img width="736" height="756" alt="Captură de ecran 2025-12-26 095335" src="https://github.com/user-attachments/assets/704ca03f-3eb3-4d2e-8690-88f1ae8a3f9e" />
